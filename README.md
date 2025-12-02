@@ -98,7 +98,4 @@ Build the application for production:
 npm run build
 ```
 ## 📦 Infor changed
-Numbers
-W app no
-email
-note : Image remaining to upload
+information updated only data need to changed
