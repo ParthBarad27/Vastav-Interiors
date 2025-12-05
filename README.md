@@ -102,3 +102,4 @@ information updated only data need to changed
 todos:
 1. work on responsiveness
 2. work on whatsapp api
+3. Direct mail function
