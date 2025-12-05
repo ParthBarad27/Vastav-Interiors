@@ -33,4 +33,4 @@ const Routes = () => {
 
 export default Routes;
 
-// this is remaining 
+// export default Routes;
