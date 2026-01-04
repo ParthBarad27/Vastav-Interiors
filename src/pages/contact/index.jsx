@@ -50,4 +50,7 @@ const Contact = () => {
   );
 };
 
+// Todo
+// The whatsapp icon 
+
 export default Contact;
