@@ -51,6 +51,7 @@ const Contact = () => {
 };
 
 // Todo
+// contact number
 // The whatsapp icon 
 
 export default Contact;
